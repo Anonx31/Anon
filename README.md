@@ -20,5 +20,5 @@
 
 ## 📫 Let's Connect:
 - **Email**: Bobbydsouza3102@gmail.com  
-- **LinkedIn**: [linkedin.com/in/]([https://linkedin.com/in/bobby-dsouza-63a5b633b/](https://www.linkedin.com/in/bobby-dsouza-63a5b633b/))  
-- **Portfolio**: [your-portfolio.com](https:anonx31.github.io)
+- **LinkedIn**: https://linkedin.com/in/bobby-dsouza-63a5b633b 
+- **Portfolio**: https:anonx31.github.io

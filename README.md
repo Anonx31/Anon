@@ -1,7 +1,24 @@
-- 👋 Hi, I’m Anon
-- 👀 I’m Certified Ethical Hacker
-- 🌱 I’m currently learning BSC IT
-<!---
-Anon3172/Anon3172 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Hi, I'm Bobby Dsouza! 👋
+
+🎓 **B.Sc. IT Student Specializing in Cybersecurity**  
+📍 **Mumbai, India**  
+🔒 **Passionate about building secure, efficient, and innovative software solutions.**
+
+---
+
+## 🌟 Skills:
+- **Programming Languages**: Python, Java, JavaScript, C++
+- **Web Development**: HTML, CSS, React, Node.js
+- **Cybersecurity**: Penetration Testing, Vulnerability Analysis
+- **Tools**: Git, Linux, Wireshark, Metasploit, Nmap
+
+---
+
+## 🚀 Projects:
+- **[Personal Portfolio Website](https://Anonx31.github.io)**: A responsive portfolio to showcase my work and skills. Built with HTML, CSS, and JavaScript.
+---
+
+## 📫 Let's Connect:
+- **Email**: Bobbydsouza3102@gmail.com  
+- **LinkedIn**: [linkedin.com/in/]([https://linkedin.com/in/bobby-dsouza-63a5b633b/](https://www.linkedin.com/in/bobby-dsouza-63a5b633b/))  
+- **Portfolio**: [your-portfolio.com](https:anonx31.github.io)

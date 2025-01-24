@@ -16,9 +16,8 @@
 
 ## 🚀 Projects:
 - **[Personal Portfolio Website](https://anonx31.github.io)**: A responsive portfolio showcasing my work, skills, and achievements. Built with HTML, CSS, and JavaScript.
-- **Study Sphere**: An academic project designed to streamline student resources and study materials. Includes features for collaboration and data sharing. Technologies: Python and Flask.
-- **Web Dev Experiments**: A repository for experimenting with front-end frameworks like React and backend tools like Node.js.
-- **Linux Scripts Collection**: Automation scripts for improving Linux system efficiency and security.
+- **[Study Sphere](https://github.com/Anonx31/Study-Sphere)**: An academic project designed to streamline student resources and study materials. Includes features for collaboration and data sharing. Technologies: Python and Flask.
+- **[Linux-Hardening-Toolkit](https://github.com/Anonx31/Linux-Hardening-Toolkit)**: Automation scripts for improving Linux system efficiency and security.
 
 ---
 

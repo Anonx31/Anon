@@ -19,6 +19,7 @@
 - **[Study Sphere](https://github.com/Anonx31/Study-Sphere)**: An academic project designed to streamline student resources and study materials. Includes features for collaboration and data sharing. Technologies: Python and Flask.
 - **[Linux-Hardening-Toolkit](https://github.com/Anonx31/Linux-Hardening-Toolkit)**: Automation scripts for improving Linux system efficiency and security.
 - **[Caesar-Cipher-Encryptor](https://github.com/Anonx31/Caesar-Cipher-Encryptor)**: Caesar Algorithm of Encryption & Decryption GUI version.
+- **[Caesar-Cipher-Encryptor](https://github.com/Anonx31/Password_Strength_Checker)**: The application provides feedback on password strength through a graphical user interface (GUI).
 
 ---
 
